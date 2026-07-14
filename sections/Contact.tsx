@@ -71,8 +71,7 @@ export default function Contact() {
             >
 
               Cuéntanos sobre tu proyecto, tu negocio o la idea que tienes
-              en mente. En MagVal analizaremos tus necesidades y crearemos una
-              solución digital adaptada a tus objetivos.
+              en mente.
 
             </p>
 
@@ -122,7 +121,7 @@ export default function Contact() {
 
                   <p className="text-gray-600">
 
-                    contacto@magval.com
+                    bryanmaga66@gmail.com
 
                   </p>
 
@@ -291,7 +290,7 @@ export default function Contact() {
 
               <a
 
-                href="https://wa.me/521XXXXXXXXXX"
+                href="https://wa.me/522288387941?text=Hola,%20me%20gustaría%20solicitar%20una%20propuesta%20para%20una%20página%20web."
 
                 target="_blank"
 

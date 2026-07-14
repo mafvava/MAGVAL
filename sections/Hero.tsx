@@ -107,10 +107,10 @@ export default function Hero() {
             "
           >
 
-            En <strong>MagVal</strong> desarrollamos sitios web modernos,
-            rápidos y profesionales, diseñados para transmitir confianza,
-            mejorar la experiencia de tus clientes y ayudar a que tu negocio
-            crezca en internet.
+            En <strong>MagVal</strong> vamos de la mano con nuestros clientes
+            pensamos tanto en sus necesidades y como mejorar sus negocios para que 
+            su experencia sea la mejor, diseñamos esta pagina para que se hagan idea
+            de como seria su sitio ideal y llevarlo de la imaginacion a la realidad.
 
           </p>
 

@@ -120,7 +120,7 @@ export default function Services() {
             "
           >
 
-            Desarrollamos herramientas digitales pensadas para ayudarte a
+            Te ayudamos desarrollandote herramientas digitales pensadas para ayudarte a
             mejorar tu presencia en internet y conectar mejor con tus clientes.
 
           </p>

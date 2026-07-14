@@ -75,9 +75,8 @@ export default function About() {
           >
 
             En <strong>MagVal</strong> creemos que una página web no solo debe
-            verse bien, también debe transmitir confianza, representar la
-            esencia de cada negocio y convertirse en una herramienta que ayude
-            a conseguir nuevos clientes.
+            verse bien, también debe representar la esencia de cada negocio y 
+            convertirse en una herramienta que ayude a conseguir nuevos clientes.
 
           </p>
 
