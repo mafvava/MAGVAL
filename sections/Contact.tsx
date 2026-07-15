@@ -290,7 +290,7 @@ export default function Contact() {
 
               <a
 
-                href="https://wa.me/522288387941?text=Hola,%20me%20gustaría%20solicitar%20una%20propuesta%20para%20una%20página%20web."
+                href="https://wa.me/522288387941"
 
                 target="_blank"
 
